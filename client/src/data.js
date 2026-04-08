@@ -1,4 +1,4 @@
-export const SmallChopsMenu = [
+export const smallChopsMenu = [
   {
     id: "starter-mark",
     name: "The Starter Mark",
